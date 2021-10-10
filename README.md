@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **thisisankitsrivastava@gmail.com**
 
+- ⚡ Fun fact: **I'm a 2nd year BTech student** 
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1a-hSETvysgXhNrqEQGak5xdJ0fpr0Wm2/view?usp=sharing](https://drive.google.com/file/d/1a-hSETvysgXhNrqEQGak5xdJ0fpr0Wm2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
