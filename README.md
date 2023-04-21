@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **thisisankitsrivastava@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fWtYuPtH7GF7DYps_5ZseDVfMfWb2JnC/view](https://drive.google.com/file/d/1fWtYuPtH7GF7DYps_5ZseDVfMfWb2JnC/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fWtYuPtH7GF7DYps_5ZseDVfMfWb2JnC/view](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
