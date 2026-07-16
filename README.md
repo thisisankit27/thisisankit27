@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - Backend-leaning developer, now vibe-coding daily
 - 🔨 Currently building multiple small products, documenting the process
@@ -16,10 +14,6 @@
 - 📺 Following along? Check my pinned repos and streams below
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thisisankit27&theme=vue&hide_border=true&cache_seconds=86400" alt="thisisankit27's GitHub Streak" width="49%" />
-</p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
@@ -67,8 +61,8 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://youtube.com/@VibeThroughCode"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Ankit Srivastava's YouTube"/></a>&nbsp;
-  <a href="https://vibethroughcode.com/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://youtube.com/@VibeThroughCode"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Ankit Srivastava's YouTube" target="_blank"/></a>&nbsp;
+  <a href="https://vibethroughcode.com/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website" target="_blank"/></a>
 </p>
 
 <!-- <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p> -->
